@@ -30,8 +30,8 @@ const Projects: React.FC<{}> = () => {
               <div className="p-3">
                 <p className="text-white font-semibold text-xl">Hospy</p>
                 <p className="text-gray-500 text-[10px]">
-                  Création d'un système numérique pour guider les patients et
-                  visiteurs dans l'hôpital, optimisant l'expérience utilisateur.
+                  Création d&apos;un système numérique pour guider les patients et
+                  visiteurs dans l&apos;hôpital, optimisant l&apos;expérience utilisateur.
                 </p>
               </div>
             </div>
