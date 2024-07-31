@@ -36,7 +36,7 @@ const Experience: React.FC<{}> = () => {
 
         <p className="text-gray-300 pt-5">
           Écosystème Hospitalier Intelligent et Humain : Système de Guidage
-          Numérique pour l’Hôpital (IOT).
+          Numérique pour l&apos;Hôpital (IOT).
           <br />
           <br />
           <br />
@@ -45,35 +45,35 @@ const Experience: React.FC<{}> = () => {
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Création d'un système de Guidage Numérique pour l’Hôpital.
+                Création d&apos;un système de Guidage Numérique pour l&apos;Hôpital.
               </p>
             </li>
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Collaboration avec l'équipe de la conception du projet.
+                Collaboration avec l&apos;équipe de la conception du projet.
               </p>
             </li>
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Création d'une base de données non relationnelle avec MongoDB.
+                Création d&apos;une base de données non relationnelle avec MongoDB.
               </p>
             </li>
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Mise en place d'un pipeline CI/CD.
+                Mise en place d&apos;un pipeline CI/CD.
               </p>
             </li>
             <li className="mb-10 ms-4">
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Collaboration avec l'équipe de IOT
+                Collaboration avec l&apos;équipe de IOT
               </p>
             </li>
             <li className="mb-10 ms-4">
@@ -152,7 +152,7 @@ const Experience: React.FC<{}> = () => {
         </div>
 
         <p className="text-gray-300 pt-5">
-          Création d'une application Mobile pour Améliorez
+          Création d&apos;une application Mobile pour Améliorez
           <br />
           <br />
           <br />
@@ -168,7 +168,7 @@ const Experience: React.FC<{}> = () => {
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Création d'un système de covoiturage. .{" "}
+                Création d&apos;un système de covoiturage. .{" "}
               </p>
             </li>
             <li className="mb-10 ms-4">
@@ -245,7 +245,7 @@ const Experience: React.FC<{}> = () => {
         </div>
 
         <p className="text-gray-300 pt-5">
-          Création d'une application web pour Améliorez la Gestion des employés
+          Création d&apos;une application web pour Améliorez la Gestion des employés
           <br />
           <br />
           <br />
@@ -254,7 +254,7 @@ const Experience: React.FC<{}> = () => {
               <div className="absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -start-1.5 border border-white dark:border-gray-900 dark:bg-gray-700"></div>
 
               <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-                Création d'une application Web efficace{" "}
+                Création d&apos;une application Web efficace{" "}
               </p>
             </li>
             <li className="mb-10 ms-4">
