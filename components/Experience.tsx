@@ -85,7 +85,7 @@ const Experience: React.FC<{}> = () => {
             </li>
           </ol>
         </p>
-       <div className="flex-col md:flex-row">
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
   <div className="bg-transparent mt-5 mr-2 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
     NestJs
   </div>
@@ -107,7 +107,23 @@ const Experience: React.FC<{}> = () => {
   <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
     APIs
   </div>
+  <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+    Tailwind CSS
+  </div>
+  <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+    Shadcn
+  </div>
+  <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+    JWT
+  </div>
+  <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+    Méthode Agile SCRUM
+  </div>
+  <div className="bg-transparent mt-5 cursor-pointer rounded-3xl text-white py-2 px-5 border border-[#2E2E2E] w-max">
+    Postman
+  </div>
 </div>
+
 
         <div className="flex-col flex sm:flex-row ">
           <div className="bg-transparent  mt-5 mr-2 cursor-pointer  rounded-3xl  text-white py-2 px-5  border border-[#2E2E2E] w-max">
